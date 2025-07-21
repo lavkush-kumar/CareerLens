@@ -1,5 +1,7 @@
 # AI Career Coach
 
+![App Preview](./cl.gif)
+
 A full-stack, AI-powered career coaching platform to help users build resumes, generate cover letters, prepare for interviews, and gain industry insights.
 
 ---
