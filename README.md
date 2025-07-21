@@ -2,6 +2,8 @@
 
 <img src="./cl.gif" alt="App Preview" width="100%" style="max-width:700px;display:block;margin:auto;" />
 
+**Live Demo:** [https://vercel.com/lavkushs-projects-c02800e6/career-lens](https://vercel.com/lavkushs-projects-c02800e6/career-lens)
+
 A full-stack, AI-powered career coaching platform to help users build resumes, generate cover letters, prepare for interviews, and gain industry insights.
 
 ---
