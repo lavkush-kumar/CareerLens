@@ -96,6 +96,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## 📣 Credits
-- Inspired by [Shadcn UI](https://ui.shadcn.com/), [Clerk](https://clerk.com/), [Prisma](https://www.prisma.io/), and [Inngest](https://www.inngest.com/).
-- [YouTube Tutorial](https://youtu.be/UbXpRv5ApKA)
